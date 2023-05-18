@@ -1,0 +1,319 @@
+https://kodi.wiki/view/InfoLabels   |
+____________________________________
+
+
+Defaults.xml
+..............
+
+d1   Slidre (Farba)
+
+___________________________________________________________
+
+DialogButtonMenu.xml
+......................
+
+db1  Pridane Button Reload Skin (Pridaj label v Languages)
+
+db2  Pridane Button Restart Kodi (Pridaj label v Languages)
+
+___________________________________________________________
+
+DialogContextMenu.xml
+.......................
+
+dc1  zvolene menu fo filemanager ...etc
+
+___________________________________________________________
+
+DialogPlayerProcessInfo.xml
+.............................
+
+dpp1  Zmenene - pridane CPU Temp a rozsirenie CPU used ( nezmestili sa vsetky jadra cpu ) (o)
+
+____________________________________________________________
+
+DialogSeekBar.xml
+...................
+
+dsb1  enable/disable PVR info (i)  karty / VideoCodec, VideoResolution, VideoAspect, AudioCodec, AudioChannels
+
+dsb2  Panel Info PVR (i)
+
+dsb3  Pozadie PVR Info okna
+
+dsb4  Logo TV kanalu
+
+dsb5  Sirka textoveho pola pre EPG popis
+
+dsb6  Obrazok relacie z EPG
+
+dsb7  Nasledujuca relacia
+
+dsb8  Pridane Signal info text %
+
+dsb9  Pridane Signal info slider
+
+dsb10 Pridane SNR text %
+
+dsb11 Pridane SNR slider
+
+dsb12 Pridane MUX Info
+
+_______________________________________________________________
+
+EventLog.xml
+..............
+
+el1   pozadie oznacenej polozky log v pravo 
+
+el2   pozadie oznacenej polozky log v menu
+
+el3   pozadie oznacenej polozky log v menu
+____________________________________________________________
+
+
+FileManager.xml
+.................
+
+fm1   pozadie ikony <->   ****
+
+
+_______________________________________________________________
+
+Home.xml
+..........
+
+h1   Zobrazi horna polozka kategorie widget
+
+h2   Zobrazi horna polozka naposledy prehravane kanaly widget
+
+h3   Zobrazi horna polozka nahrane relacie widget
+
+h4   Zobrazi Polohu Pocasia
+
+h5   Pocasie Zobrazi aktualne poveternostne podmienky ikona
+
+h6   Zobrazi Polohu teplotu
+
+h7   Tlak vzduchu  (Home Screen)
+
+h8   Pozicia tlacitiek Tv, Doplnky, Pocasie, .....(Home Screen)
+
+h9   Buttons (Home Screen)
+     -Movies Button
+     -TV Shows Button
+     -Music Button
+     -DVD Button
+     -Music Videos Button
+     -Live TV Button
+     -Radio Button
+     -Games Button
+     -Addons Button
+     -Pictures Button
+     -Video Button
+     -Favorites Button
+     -Weather Button
+
+
+h10  POWER, SETTINGS, SEARCH Buttons panel
+     -Power Button
+     -Settings Button
+     -Search Button
+     -Fullscreen Button
+
+h11  Enable/Disable Logo KODI on Home Screen
+
+____________________________________________________________
+
+
+Includes.xml
+..............
+
+i1   System Hodiny
+
+i2   System sekundy
+
+i3   System Datum
+
+i4   System Den
+
+i5   CPU Temp
+
+i6   GPU Temp
+
+i7   nazov prehravanej relacie hore
+
+i8   nazov prehravaneho kanalu hore
+
+i9   Odstrani zobrazenie nazvov aktualneho okna v pravo hore (Baner)
+
+i10  titul power menu farba Line 1297    *****
+
+i11  pozadie fokusovanej polozky stvorec  *****
+
+i12  file browser pozadie buttons
+
+____________________________________________________________
+
+Include_Buttons.xml
+.....................
+
+ib1  pozadie fokusovanej polozky v menu / nastaveniach
+
+ib2 button_focus dennik udalosti menu pozadie
+
+ib3  pozadie fokusovanej polozky v power menu
+____________________________________________________________
+
+Include_Home.xml
+..................
+
+ih1  widgety (Skupiny) na Home Screen Prehrane kanaly, Skupiny kanalov, nahravky, Pocasie
+
+ih2  Widget Naposledy prehravane kanaly
+
+____________________________________________________________
+
+Include_PVR.xml
+.................
+
+ip1  nazov relacie Ponuka ( C )
+
+ip2  dlzka slider ( C ) neoznacene
+
+ip3  dlzka slider ( C ) oznacene
+
+ip4  pvr info screan cas konca relacie
+
+ip5  pvr info screan cas zaciatku relacie
+
+ip6  slider uplinuty cas relacie fullscrean
+
+ip7  slider neuplinuteho casu relacie fullscrean
+
+ip8  slider Timeshift casu relacie fullscrean
+
+ip9   Slider pri prepinani kanalov
+
+ip10  nazov EPG kanalu v ponuke ( H )
+
+ip11  Datum, cas zaciatku relacie, cas trvania relacie ( NIE NADPISI )
+
+ip12  nazov relacie  ponuka ( H )
+
+ip13  zaner a popis relacie epg v ponuke ( H )
+
+ip14  EPG grid casova lista
+
+ip15  Zmena - EPG loga bez nazvou kanalou
+
+ip16  text nazvy relacii v EPG Grid neoznacene
+
+ip17  text nazvy relacii v EPG Grid oznacene
+
+__________________________________________________________
+
+MyPVRGuide.xml
+................
+
+mp1   nazov kategorie v EPG Grid neoznacene
+
+mp2   pozadie zvolenej kategorie v EPG screan
+
+mp3   nazov kategorie v EPG Grid oznacene
+
+mp4   pole kde zobrazuje logo v EPG Grid
+
+mp5   nazov relacie a roku vyroby relacie na EPG screan dole v pravo
+
+mp6   zaciatok a koniec relacie v EPG screan dole vlavo
+
+mp7   nazov relacie a epizody relacie v EPG screan dole v pravo
+
+mp8   nazov zaner v EPG screan dole v lavo
+
+mp9   popis EPG v EPG screan dole
+
+___________________________________________________________________
+
+MyWeather.xml
+...............
+
+mw1   Zobrazi Polohu Pocasia (Mesto)
+
+mw2   Pocasie Zobrazi pocitovu teplotu
+
+mw3   Pocasie Zobrazi aktualne poveternostne podmienky ikona
+
+mw4   pridane - Tlak vzduchu
+
+mw5   Enable/Disable nazov poskitovatela pocasia hore v pravo
+
+___________________________________________________________________
+
+SettingsCategory.xml
+.....................
+
+sc1   pozadie buttons menu panel / settings
+
+___________________________________________________________________
+
+SettingsProfile.xml
+.....................
+
+sp1   pozadie button menu profil
+
+___________________________________________________________________
+
+SettingsSystemInfo.xml
+........................
+
+ssi1  vytazenie RAM nazov a hodnota v % (Screen System Info)
+
+ssi2  vytazenie RAM slider (Screen System Info)
+
+ssi3  vytazenie CPU nazov a hodnota v % (Screen System Info)
+
+ssi4  vytazenie CPU slider (Screen System Info)
+
+ssi5  nazov Informacie o verzii: KODI
+
+ssi6  Informacie o zostave: KODI
+
+ssi7  Informacie o verzii KODI
+
+ssi8  Informacie o GIT verzii KODI
+
+ssi9  Informacie o verzii datum: KODI
+
+ssi10 Informacie o verzii datum KODI
+
+_________________________________________________________________
+
+SkinSettings.xml
+..................
+
+ss1   Pridane deliaca ciara (Screen Nastavenie skinu)
+
+ss2   Pridane Button Show Date (Screen Nastavenie skinu)
+
+ss3   Pridane Button Show CPU Temp (Screen Nastavenie skinu)
+
+ss4   Pridane Button Show GPU Temp (Screen Nastavenie skinu)
+
+ss5   Pridane Button Show Weather (Screen Nastavenie skinu)
+
+ss6   pozadie button selected menu panel
+_________________________________________________________________
+
+
+Custom_1109_TopBarOverlay.xml
+...............................
+
+c1   Horny baner aktualny kanal
+
+c2   Horny baner cislo / kanalu aktualna relacia 
+
+c3   Horny baner cas 
+
+c4   Horny baner "konci o" 
