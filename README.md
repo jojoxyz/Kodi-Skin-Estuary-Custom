@@ -25,3 +25,4 @@ Nie som programátor a tak sa tam môžu vyskytovať chyby. Skin je ale funkčn�
 
 ![07](https://github.com/jojoxyz/Kodi-Skin-Estuary-Custom/assets/70480708/c89e94b5-2283-4350-bbf3-985abfa2fbb2)
 
+![08](https://github.com/jojoxyz/Kodi-Skin-Estuary-Custom/assets/70480708/d433e310-5680-4506-b0d5-c03507c2a7dd)
